@@ -12,4 +12,4 @@ We focus on:
 ---
 
 📍 More about our research:  
-[https://faculty.uestc.edu.cn/dengzhongwei/zh_EN/index.htm](https://scholar.google.com/citations?user=aL1sCI4AAAAJ&hl=zh-EN)
+[Google scholar](https://scholar.google.com/citations?user=aL1sCI4AAAAJ&hl=zh-EN)
