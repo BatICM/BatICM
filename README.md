@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Welcome to BatICM
 
-<!--
-**BatICM/BatICM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BatICM** (Battery Intelligent Control and Management) is a research team led by [Dr. Zhongwei Deng](https://faculty.uestc.edu.cn/dengzhongwei/zh_CN/index.htm) from the School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China (UESTC).
 
-Here are some ideas to get you started:
+We focus on:
+- 🔋  Battery physical and equivalent-circuit modeling  
+- 📊 Data-driven state estimation and lifetime prediction of batteries   
+- 🛠️ Fault diagnosis and safety warning of batteries  
+- 🔄 Evaluation and secondary utilization of retired batteries  
+- 🤖 AI-based applications for large-scale real-world battery data
+---
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 More about our research:  
+[https://faculty.uestc.edu.cn/dengzhongwei/zh_EN/index.htm](https://scholar.google.com/citations?user=aL1sCI4AAAAJ&hl=zh-EN)
