@@ -9,7 +9,6 @@ We focus on:
 - 🔄 Evaluation and secondary utilization of retired batteries  
 - 🤖 AI-based applications for large-scale real-world battery data
 ---
----
 
 📍 More about our research:  
 [Google scholar](https://scholar.google.com/citations?user=aL1sCI4AAAAJ&hl=zh-EN)
